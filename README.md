@@ -11,7 +11,7 @@ This report details the experimental setup, methodology, and results of using a 
 
 ## **2. Experimental Setup**  
 ### **2.1 Hardware & Software Requirements**  
-- **Hardware:** Ran on a CPU for original testing, but GPU reccomended
+- **Hardware:** Ran on a CPU for original testing, but GPU recommended
 - **Software:**  
   - Python 3.8+  
   - PyTorch  
@@ -57,7 +57,9 @@ python infer.py
 | Best Kaggle Validation Accuracy | **0.76%** |
 | Train Accuracy | **0.99%** |
 
+## **7 Model Weights**
+Download final model weights from Google Drive: [Insert Google Drive Link Here]
 
 ## **6. Conclusion**  
-This experiment demonstrates how **Swin Transformer with advanced augmentation and fine-tuning** achieves high accuracy for image classification. Further improvements can be explored by optimizing hyperparameters and dataset augmentation strategies.  
+This experiment demonstrates how the **Swin Transformer** achieves high accuracy for image classification. Further improvements can be explored by optimizing hyperparameters and dataset augmentation strategies.  
 
