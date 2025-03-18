@@ -2,6 +2,7 @@
 
 **Title:** Swin Transformer for Image Classification
 **Authors:** Suhas Oruganti, Tejas Polu, Ashwin Nagarajan 
+**Emails:** sorugant@ucsc.edu, tpolu@ucsc.edu, asnagara@ucsc.edu
 **Date:** 03/21/2025  
 
 ---  
