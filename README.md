@@ -56,7 +56,7 @@ python infer.py
 | Metric | Value |  
 |--------|--------|  
 | Best Kaggle Validation Accuracy | **0.76%** |
-| Train Accuracy | **0.99%** |
+| Train Accuracy | **0.81%** |
 
 ## **7 Model Weights**
 Download final model weights from Google Drive: https://drive.google.com/drive/folders/17KVxn88uSz62oCHhaD4s8e6GemAA9tGU?usp=sharing
